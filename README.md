@@ -1,2 +1,2 @@
 # victorySkill
-A small Alex Skill to declare victory
+A small Alexa Skill to declare victory
